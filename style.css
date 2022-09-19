@@ -33,7 +33,15 @@ body {
     justify-content: space-around;
 }
 
-.icons > a {
+a {
     color: white;
+    transition: all 0.8s;
+}
+
+a:hover {
+    opacity: 0.5;
+}
+
+.icons {
     font-size: 30px;
 }
