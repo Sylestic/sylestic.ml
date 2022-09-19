@@ -1,2 +1,2 @@
 # sylestic.ml
-Personal website hosted on Vercel ❤️
+Personal website hosted on Github Pages ❤️
