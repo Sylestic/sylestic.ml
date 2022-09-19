@@ -16,6 +16,7 @@ body {
     font-family: 'Fira Code', monospace;
     
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -24,4 +25,15 @@ body {
 .pfp {
     width: 250px;
     border-radius: 50%;
+}
+
+.icons {
+    width: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.icons > a {
+    color: white;
+    font-size: 30px;
 }
