@@ -18,3 +18,8 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.pfp {
+    width: 400px;
+    border-radius: 50%;
+}
